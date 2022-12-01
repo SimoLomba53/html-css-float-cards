@@ -18,12 +18,14 @@ body{
     margin: 25px;
     font-family: 'Nerko One';
     font-size:60px;
+    color: rgba(255, 0, 106, 0.808);
 }
 
 #intro{
     text-align: center;
     margin: 45px;
-    font-size:25px;
+    font-size:30px;
+    font-family: 'Arial Narrow Bold', sans-serif;
 }
 
 .clearfix::after{
@@ -44,23 +46,31 @@ body{
 }
 
 img{
-   height:120px;
+   height:119px;
    width:120px;
    float: left;
 }
 
 h2{
-    float:left;
     color: white;
     font-family: 'Nerko One';
-    margin-left:15px
+    margin-left:135px;
+    margin-top: 10px;
 }
 
 .manzione{
-    float: left;
+    
     color:white;
-    margin-left:15px;
+    margin-left:135px;
+    margin-top: 10px;
+    font-family: 'Arial Narrow Bold', sans-serif;
     
 }
 
+.mail{
+    color:rgba(0, 119, 255, 0.986);
+    margin-left:135px;
+    margin-top: 10px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    }
     
