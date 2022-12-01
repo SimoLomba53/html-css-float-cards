@@ -13,7 +13,7 @@ body{
     height:800px;
 }
 
-h1{
+#main-title{
     text-align: center;
     margin: 25px;
     font-family: 'Nerko One';
@@ -35,8 +35,25 @@ h1{
 .riquadro{
     float: left;
     width:calc(100%/3);
-    padding-left:75px;
-    
-    
+    border: 1px solid transparent;
+    height:120px;
+    width:400px;
+    margin-left:30px;
+    margin-top:40px;
+    background-color: black;
 }
 
+img{
+   height:120px;
+   width:120px;
+   float: left;
+}
+
+h2{
+    float:left;
+    color: white;
+    font-family: 'Nerko One';
+}
+
+
+    
