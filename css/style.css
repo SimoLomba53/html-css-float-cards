@@ -37,8 +37,8 @@ body{
     width:calc(100%/3);
     border: 1px solid transparent;
     height:120px;
-    width:400px;
-    margin-left:30px;
+    width: 527px;
+    margin-left:80px;
     margin-top:40px;
     background-color: black;
 }
@@ -53,7 +53,9 @@ h2{
     float:left;
     color: white;
     font-family: 'Nerko One';
+    margin-left:15px
 }
+
 
 
     
