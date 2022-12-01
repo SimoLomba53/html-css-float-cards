@@ -18,7 +18,7 @@ body{
     margin: 25px;
     font-family: 'Nerko One';
     font-size:60px;
-    color: rgba(255, 0, 106, 0.808);
+    color:#e53170;
 }
 
 #intro{
@@ -68,7 +68,7 @@ h2{
 }
 
 .mail{
-    color:rgba(0, 119, 255, 0.986);
+    color:#2ca8fa;
     margin-left:135px;
     margin-top: 10px;
     font-family: 'Arial Narrow Bold', sans-serif;
