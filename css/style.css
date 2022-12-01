@@ -25,3 +25,18 @@ h1{
     margin: 45px;
     font-size:25px;
 }
+
+.clearfix::after{
+    content:'' '';
+    clear: both;
+    display: table;
+}
+
+.riquadro{
+    float: left;
+    width:calc(100%/3);
+    padding-left:75px;
+    
+    
+}
+
